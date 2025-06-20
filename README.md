@@ -17,7 +17,7 @@ This project attempts to conduct a spatiotemporal study of the Ohio River Basin,
 ![Average of the Toxic Release Inventory from 2018-2023](Maps/TRI_Average.png)
 This project is divided into three stages:
 
-\- Econometric study between real GDP and the Toxic Release Inventory. (Presented in the Word document and in Python code for reuse)
+\- Econometric study between real GDP and the Toxic Release Inventory. (Presented in the Investigation file and in MixedLinearARIMA file for reuse)
 
 - The data presented annually by the EPA(<https://www.epa.gov/toxics-release-inventory-tri-program>) shows the release of toxic pollutants into the environment by various companies across different industries and distributed throughout North America. This allows us to obtain the amount, in pounds, released into the environment by county and even by state. With this, we can establish a connection with our economic variable, the Real Gross Domestic Product (RGDP).
 - To study the area, we analyzed the companies that pollute in the basin according to the information provided by the EPA, resulting in most of the being classified under the codes 21 and 311–316, 322–326 in the NAICS (North American Industry Classification System), which correspond to the Mining industry and the Non-Durable Goods Manufacturing industry.
